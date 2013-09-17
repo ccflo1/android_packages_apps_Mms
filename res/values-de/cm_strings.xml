@@ -96,7 +96,7 @@
     <string name="blacklist_title">Sperrliste</string>
     <string name="blacklist_summary_disabled">Deaktiviert</string>
     <string name="blacklist_summary">Eingehende Nachrichten von Nummern, die sich in der Sperrliste befinden, werden abgewiesen</string>
-    <string name="blacklist_notification">Eine Nachricht von % wurde abgewiesens</string>
+    <string name="blacklist_notification">Eine Nachricht von % wurde abgewiesen</string>
     <string name="blacklist_notification_private_number">Eine Nachricht mit unterdrückter Nummer wurde abgewiesen</string>
     <string name="blacklist_notification_list_private">Unterdrückte Nummer</string>
     <string name="blacklist_notification_unknown_number">Eine Nachricht von %s wurde abgewiesen</string>
